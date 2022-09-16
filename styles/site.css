@@ -1,6 +1,6 @@
 body {
      background: url("../img/pre-grid.png") repeat scroll 0 0 #f0f7f7; 
-	color: #021417;
+	color: #f7feff;
 }
 h1 {
 	color: #e1eef0;
@@ -43,7 +43,7 @@ a:hover {
 }
 #header {
 	display: block;
-	background-color: #f0f7f7;
+	background-color: #f7feff;
 	border-bottom: 1px solid #AAAAAA;
 }
 #header h1 {
