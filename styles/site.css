@@ -32,7 +32,7 @@ a:hover {
 }
 #outer-wrapper {
 	background-color: #FFFFFF;
-    border: 1px solid #AAAAAA;
+    border: 1px solid #779999;
     border-radius: 3px;
     /*box-shadow: 0 0 0 4px #FFFFFF, 2px 1px 6px 4px rgba(10, 10, 0, 0.5);*/
     font: 12px Verdana,Geneva,sans-serif;
@@ -43,7 +43,7 @@ a:hover {
 }
 #header {
 	display: block;
-	background-color: #F1F1F1;
+	background-color: #f0f7f7;
 	border-bottom: 1px solid #AAAAAA;
 }
 #header h1 {
