@@ -31,7 +31,7 @@ a:hover {
 	text-decoration: underline;
 }
 #outer-wrapper {
-	background-color: #FFFFFF;
+	background-color: #bad4d4;
     border: 1px solid #779999;
     border-radius: 3px;
     /*box-shadow: 0 0 0 4px #FFFFFF, 2px 1px 6px 4px rgba(10, 10, 0, 0.5);*/
@@ -62,7 +62,7 @@ a:hover {
     margin: 0 0 20px 30px;
 }
 #nav {
-	border-bottom: 1px solid #AAAAAA;
+	border-bottom: 1px solid #4ba1c9;
     font: 14px Impact,Arial,Sans-Serif;
     text-transform: uppercase;
 }
